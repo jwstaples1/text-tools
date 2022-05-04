@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TextTool
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=bst\ pq
+comment2.target=void\ printToConsole(BinarySearchTree,\ PriorityQueue)
+comment3.params=bst\ pq
+comment3.target=boolean\ saveToFile(BinarySearchTree,\ PriorityQueue)
+comment4.params=
+comment4.target=char[]\ getSettings()
+comment5.params=validChars
+comment5.target=char\ getValidCharInput(char[])
+comment6.params=
+comment6.target=int\ getValidIntInput()
+comment7.params=charList\ searched
+comment7.target=boolean\ containsChar(char[],\ char)
+comment8.params=caseSensitive
+comment8.target=BinarySearchTree\ getText(boolean)
+comment9.params=word
+comment9.target=java.lang.String\ sanitizeWord(java.lang.String)
+numComments=10

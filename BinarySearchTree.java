@@ -3,7 +3,7 @@
  * Write a description of class BinarySearchTree here.
  *
  * @author Josh Staples
- * @version (a version number or a date)
+ * @version 05032022
  */
 import java.util.ArrayList;
 public class BinarySearchTree<E> {

@@ -3,7 +3,7 @@
  * Write a description of class PriorityQueue here.
  *
  * @author Josh Staples
- * @version (a version number or a date)
+ * @version 05032022
  */
 public class PriorityQueue<E>
 {
